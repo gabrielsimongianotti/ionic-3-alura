@@ -1,0 +1,5 @@
+comando: ionic  g provider  carros.service
+descrição: cria uma classe provader 
+
+comando: ionic serve --lab
+descrição: roda o ionic noambiente e desenvolvimento
